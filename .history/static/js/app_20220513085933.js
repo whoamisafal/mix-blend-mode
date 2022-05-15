@@ -20,7 +20,7 @@ let mix_blend_mode = [
     'Normal'
 ];
 let textContainer = document.getElementById("text-container")
-let text = document.getElementById("mytext")
+let text = document.getElementById("text")
 let colorChange = document.getElementById("color");
 //Change the text color of the text
 colorChange.addEventListener("change", function(){
